@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fausto/CLionProjects/T13/funcao.c
+stdio.h
+-
+string.h
+-
+funcao.h
+/home/fausto/CLionProjects/T13/funcao.h
+struct.h
+/home/fausto/CLionProjects/T13/struct.h
+
+/home/fausto/CLionProjects/T13/funcao.h
+
+/home/fausto/CLionProjects/T13/main.c
+stdio.h
+-
+string.h
+-
+funcao.h
+/home/fausto/CLionProjects/T13/funcao.h
+
+/home/fausto/CLionProjects/T13/menu.c
+stdio.h
+-
+menu.h
+/home/fausto/CLionProjects/T13/menu.h
+
+/home/fausto/CLionProjects/T13/menu.h
+
+/home/fausto/CLionProjects/T13/struct.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/T14.dir/main.c.o CMakeFiles/T14.dir/funcao.c.o CMakeFiles/T14.dir/menu.c.o  -o T14 
